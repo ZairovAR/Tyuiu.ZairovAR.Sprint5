@@ -10,7 +10,7 @@ namespace Tyuiu.ZairovAR.Sprint5.Task0.V27.Test
         [TestMethod]
         public void TestMethod1()
         {
-            string path = @"C:\Users\pfbhj\source\repos\Tyuiu.ZairovAR.Sprint5\Tyuiu.ZairovAR.Sprint5.Task0.V27\bin\Debug\OutPutFileTask0.txt";
+            string path = @"C:\Users\pfbhj\source\repos\Tyuiu.ZairovAR.Sprint5\Tyuiu.ZairovAR.Sprint5.Task0.V27\bin\Debug\OutPutFileTask0.txt"; 
             FileInfo fileInfo = new FileInfo(path);
             bool fileExists = fileInfo.Exists;
             bool wait = true;

@@ -13,7 +13,7 @@ namespace Tyuiu.ZairovAR.Sprint5.Task0.V27
             DataService ds = new DataService();
             int x = 3;
             Console.Title = "Спринт #5 | Выполнил: Заиров А.Р. | АСОиУб-23-2";
-            Console.WriteLine("***************************************************************************");
+            Console.WriteLine("***************************************************************************"); 
             Console.WriteLine("* Спринт #5                                                               *");
             Console.WriteLine("* Тема: Класс File. Запись данных в текстовый файл                        *");
             Console.WriteLine("* Задание #0                                                              *");
