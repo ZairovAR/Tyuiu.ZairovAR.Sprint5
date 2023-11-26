@@ -17,11 +17,11 @@ namespace Tyuiu.ZairovAR.Sprint5.Task6.V30
             Console.WriteLine("* Спринт #5                                                               *");
             Console.WriteLine("* Тема: Обработка файлов                                                  *");
             Console.WriteLine("* Задание #6                                                              *");
-            Console.WriteLine("* Вариант #9                                                              *");
+            Console.WriteLine("* Вариант #30                                                             *");
             Console.WriteLine("* Выполнил: Спирин Заиров А.Р. | АСОиУб-23-2                              *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
-            Console.WriteLine("* Дан файл С:/DataSprint5/InPutDataFileTask6V30.txt в котором есть набор   *");
+            Console.WriteLine("* Дан файл С:/DataSprint5/InPutDataFileTask6V30.txt в котором есть набор  *");
             Console.WriteLine("* символьных данных. Найти количество слов длинной восемь символов        *");
             Console.WriteLine("* в заданной строке                                                       *");
             Console.WriteLine("*                                                                         *");
